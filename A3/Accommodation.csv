@@ -1,0 +1,101 @@
+hotel_name,hotel_id,locality,city,state,capacity
+Amazon.com,1,Littlebury  Grove,Las Vegas,Alaska,174
+UPC,2,East Boulevard,Jacksonville,Nevada,10
+Demaco,3,Jackson Way,Fort Lauderdale,Colorado,69
+Global Print,4,Garfield Lane,Fort Lauderdale,New York,113
+Zepter,5,Sheringham   Pass,Indianapolis,Oregon,61
+Erickson,6,Hammersmith  Tunnel,El Paso,Hawaii,20
+Leadertech Consulting,7,Epworth  Hill,Miami,Idaho,205
+Coca-Cola Company,8,Sundown Grove,Hayward,Minnesota,257
+Mars,9,Collingwood  Crossroad,Detroit,California,304
+Global Print,10,Carlton  Boulevard,Jersey City,Alabama,109
+Metro Cash&Carry,11,Baynes  Tunnel,Minneapolis,Minnesota,297
+Areon Impex,12,Cato   Rue,Colorado Springs,Maryland,276
+Metro Cash&Carry,13,Bloomsbury  Way,Valetta,Wisconsin,226
+Coca-Cola Company,14,Coalecroft  Road,Bucharest,Iowa,96
+Telekom,15,Baylis  Street,Fremont,Washington,235
+Global Print,16,Wakley   Avenue,Las Vegas,Oklahoma,324
+Vodafone,17,Chamberlain  Alley,Springfield,North Dakota,357
+Global Print,18,Cliffords  Crossroad,Charlotte,South Carolina,160
+CarMax,19,Chestnut Rise Boulevard,Venice,Wisconsin,118
+Carrefour,20,Wager   Vale,Albuquerque,Missouri,44
+It Smart Group,21,Coal Wharf  Grove,Charlotte,Texas,321
+21st Century Fox,22,Bliss  Hill,Madrid,Pennsylvania,147
+AECOM,23,Adelaide  Pass,Minneapolis,Kansas,118
+Areon Impex,24,Arctic   Road,Laredo,Wisconsin,53
+Facebook,25,Ben   Street,San Bernardino,Louisiana,49
+Demaco,26,Walnut Drive,Prague,Montana,296
+21st Century Fox,27,Camden  Hill,Lancaster,Hawaii,230
+Carrefour,28,Thorndike   Crossroad,Bucharest,Mississippi,84
+Coca-Cola Company,29,Ayres   Pass,Albuquerque,South Dakota,230
+Comodo,30,Chapel  Hill,Memphis,Virginia,379
+CarMax,31,Timothy  Way,Worcester,Michigan,274
+Apple Inc.,32,Chester  Hill,Innsbruck,Michigan,232
+UPC,33,Cato   Crossroad,Lincoln,Nevada,221
+CarMax,34,Blenkarne  Avenue,Reno,Wyoming,83
+Metro Cash&Carry,35,Dutton   Route,Saint Paul,Tennessee,47
+Mars,36,Cleaver Grove,Long Beach,Georgia,259
+CarMax,37,Addison  Drive,Sacramento,North Carolina,225
+Comodo,38,Castlereagh   Street,Columbus,Illinois,2
+ENEL,39,Cavell   Crossroad,Sacramento,Florida,385
+Metro Cash&Carry,40,Camberwell  Way,New York,Florida,298
+Comodo,41,Union  Pass,Oakland,Nevada,1
+Comodo,42,Sheffield Road,Hayward,Colorado,143
+Apple Inc.,43,Chamberlain  Drive,Zurich,Missouri,108
+Vodafone,44,Collingwood  Rue,Lakewood,New Jersey,216
+CarMax,45,King Edward  Pass,Rochester,Mississippi,398
+21st Century Fox,46,Andsell    Lane,Venice,Rhode Island,164
+AECOM,47,Rail Crossroad,Salem,West Virginia,34
+Comodo,48,Liverpool  Hill,Otawa,Florida,331
+BuzzFeed,49,Blore  Crossroad,Minneapolis,Florida,21
+Vodafone,50,East Way,Fremont,New Hampshire,33
+Telekom,51,Egerton  Route,Prague,Alabama,279
+Mars,52,Chancellor  Way,Boston,New Mexico,378
+Facebook,53,Parkfields Avenue,Paris,Wyoming,152
+ENEL,54,Birkin   Way,Arlington,Pennsylvania,119
+AECOM,55,Clerkenwell Way,Quebec,Rhode Island,153
+Leadertech Consulting,56,Coal Wharf  Drive,Innsbruck,Minnesota,53
+Vodafone,57,Westbourne Vale,Denver,Missouri,215
+Carrefour,58,Blackheath  Grove,Chicago,South Carolina,92
+Comodo,59,Black Swan  Avenue,Worcester,Illinois,92
+Biolife Grup,60,Blore  Street,Glendale,Idaho,50
+Comodo,61,Sheffield Drive,Los Angeles,Virginia,82
+BuzzFeed,62,Beechen  Vale,Rome,Maryland,164
+Carrefour,63,Camley   Avenue,Lincoln,California,207
+Apple Inc.,64,Abbotswell  Rue,Stockton,Nevada,251
+Danone,65,Littlebury  Boulevard,San Diego,Vermont,17
+Demaco,66,Gautrey  Pass,Bellevue,Connecticut,62
+Erickson,67,Bury  Road,Jersey City,Mississippi,204
+Amazon.com,68,Bingham   Walk,Richmond,West Virginia,281
+Carrefour,69,Babmaes    Way,St. Louis,Idaho,298
+Leadertech Consulting,70,Cecilia  Drive,Oakland,New Hampshire,203
+Telekom,71,Berry  Lane,Glendale,New Hampshire,13
+Danone,72,Carolina  Crossroad,Toledo,Missouri,91
+21st Century Fox,73,Clyde Route,Denver,Delaware,199
+Vodafone,74,Carlisle  Crossroad,Stockton,Vermont,302
+Leadertech Consulting,75,Cavell   Hill,Garland,Rhode Island,100
+Amazon.com,76,Gathorne   Boulevard,Tallahassee,South Dakota,391
+Telekom,77,Commercial  Street,Memphis,Wisconsin,129
+Global Print,78,Hickory   Hill,Tulsa,Rhode Island,176
+Biolife Grup,79,Cedarne  Pass,Phoenix,Arizona,222
+Leadertech Consulting,80,Blackwall  Walk,Fremont,Ohio,130
+Telekom,81,Pine Crossroad,San Diego,Georgia,218
+Comcast,82,Chatfield  Crossroad,Hollywood,Indiana,107
+UPC,83,King Pass,Springfield,Mississippi,111
+Boeing,84,Caroline  Way,St. Louis,Indiana,43
+ENEL,85,Rivervalley Way,Minneapolis,North Carolina,259
+AECOM,86,Longman   Drive,San Francisco,Oklahoma,100
+Comcast,87,Apsley    Rue,Lincoln,Iowa,28
+Erickson,88,Ellerslie Street,Henderson,Oregon,310
+UPC,89,Cam  Tunnel,Tallahassee,Indiana,373
+21st Century Fox,90,Fieldstone Way,Zurich,West Virginia,391
+Global Print,91,Cave   Alley,Atlanta,Connecticut,186
+Zepter,92,Fairholt   Tunnel,Tulsa,Connecticut,50
+Apple Inc.,93,Blackheath   Street,Seattle,Alabama,9
+Metro Cash&Carry,94,Arline    Alley,Madrid,Maine,62
+Telekom,95,Heritage Rue,Valetta,Arkansas,10
+Erickson,96,Yoakley Way,Memphis,Maine,301
+Apple Inc.,97,Chatsworth  Pass,Las Vegas,Mississippi,353
+DynCorp,98,Boadicea   Drive,Milano,Massachussets,346
+Coca-Cola Company,99,Wake  Alley,Miami,Maine,33
+Boeing,100,Lonsdale  Vale,Orlando,Missouri,16

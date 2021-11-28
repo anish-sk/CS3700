@@ -1,0 +1,470 @@
+player_name,nationality,player_id,age,captain,vice_captain,batsman,wicket_keeper,all_rounder,bowler,team_id,hotel_id
+RA Jadeja,India,35,33,0,0,1,0,1,1,8,82
+BB Sran,India,429,29,0,0,1,0,0,0,11,32
+KC Cariappa,India,422,27,0,0,1,0,0,0,11,45
+DL Chahar,India,465,29,0,0,0,0,0,0,3,97
+SN Khan,India,402,24,0,0,0,0,0,0,1,48
+IK Pathan,India,29,37,0,0,0,0,0,0,3,15
+AS Rajpoot,India,344,28,0,0,1,0,0,0,9,11
+UT Yadav,India,232,34,0,0,1,1,0,0,7,13
+A Nehra,India,73,42,0,0,0,0,0,1,12,98
+R Shukla,India,342,31,0,0,0,0,0,1,13,51
+V Shankar,India,455,30,0,0,1,0,0,0,3,47
+S Aravind,India,270,37,0,0,0,0,0,0,12,97
+RA Shaikh,India,442,36,0,0,0,0,0,1,4,57
+Kamran Khan,India,160,30,0,0,1,1,1,1,8,34
+SB Wagh,India,273,33,0,0,1,0,0,0,4,24
+Mohammed Shami,India,347,31,0,0,1,0,0,0,10,80
+PA Patel,India,17,36,0,0,0,0,0,1,6,27
+PJ Sangwan,India,116,31,0,0,0,0,0,0,1,54
+S Kaushik,India,432,26,0,0,0,1,0,0,9,38
+S Kaul,India,368,31,0,0,0,0,0,1,13,51
+RR Bose,India,440,42,0,0,1,0,1,1,7,46
+PC Valthaty,India,167,38,1,0,1,0,0,0,7,41
+Sandeep Sharma,India,367,28,0,0,0,0,0,1,6,14
+Yashpal Singh,India,170,40,0,0,0,0,0,1,12,84
+AA Bilakhia,India,172,35,0,0,0,0,0,1,7,42
+T Mishra,India,469,35,0,0,0,0,0,1,10,74
+YS Chahal,India,382,31,0,0,0,1,0,1,5,14
+Karanveer Singh,India,392,34,0,0,1,0,1,1,12,32
+MK Tiwary,India,87,36,1,0,0,0,0,0,13,27
+AN Ghosh,India,173,35,0,0,0,0,0,0,3,64
+KB Arun Karthik,India,239,35,0,0,0,0,0,1,11,63
+P Awana,India,333,35,1,0,0,0,0,1,2,35
+IR Jaggi,India,257,32,0,0,1,0,0,0,10,71
+K Upadhyay,India,332,35,0,0,1,0,0,0,13,67
+KV Sharma,India,166,34,0,0,0,0,0,1,12,67
+SPD Smith,India,306,32,0,0,0,0,0,1,12,92
+AS Raut,India,169,34,0,0,0,0,0,1,3,72
+A Mukund,India,152,31,0,0,1,0,0,0,11,63
+DB Ravi Teja,India,112,34,0,1,1,0,1,1,1,50
+A Kumble,India,124,51,0,1,1,0,1,1,9,94
+M Ashwin,India,418,31,0,0,0,0,0,1,6,44
+Imran Tahir,India,386,42,0,0,1,0,1,1,6,16
+SS Iyer,India,393,27,0,0,1,0,1,1,4,80
+P Sahu,India,412,36,0,0,0,0,0,0,3,42
+DB Das,India,95,35,0,0,1,0,0,0,2,75
+AP Majumdar,India,330,37,0,0,0,0,0,0,12,57
+Kuldeep Yadav,India,462,27,0,1,0,0,0,1,2,47
+AP Dole,India,245,34,0,0,1,0,0,0,11,90
+AL Menaria,India,266,31,0,1,0,0,0,1,7,78
+AA Kazi,India,445,32,0,0,1,0,1,1,8,60
+Sunny Singh,India,264,35,0,0,0,0,0,1,2,83
+MM Patel,India,126,38,0,0,0,0,0,1,4,89
+R Dhawan,India,356,31,0,0,1,1,1,1,2,66
+HH Pandya,India,400,28,0,0,1,0,0,0,3,6
+S Sriram,India,249,45,0,0,1,0,1,1,6,42
+B Akhil,India,12,44,0,0,1,0,0,0,12,14
+Harmeet Singh,India,256,29,0,0,1,0,1,1,6,84
+B Sumanth,India,250,33,0,0,1,0,1,1,2,63
+R Bhatia,India,89,42,0,0,0,0,0,1,12,49
+VY Mahesh,India,91,34,0,0,1,0,1,1,10,45
+AB Dinda,India,106,37,0,0,0,0,0,0,1,95
+A Singh,India,196,40,1,0,0,0,0,0,8,62
+D Kalyankrishna,India,99,38,0,0,0,0,0,1,8,55
+Swapnil Singh,India,424,30,0,0,0,0,0,0,9,31
+L Ablish,India,291,39,0,0,1,0,0,0,10,57
+Gagandeep Singh,India,437,40,0,0,0,0,0,0,1,27
+SB Bangar,India,59,49,1,0,1,0,0,0,2,41
+S Rana,India,301,37,0,0,1,0,0,0,6,18
+RV Pawar,India,467,42,0,1,1,0,0,0,13,11
+I Malhotra,India,290,37,0,0,0,0,0,1,9,99
+AD Nath,India,414,28,0,0,0,0,0,0,3,84
+R Bishnoi,India,164,34,0,0,0,0,0,1,8,10
+L Balaji,India,151,40,0,0,1,0,1,1,2,55
+AN Ahmed,India,246,33,0,0,0,0,0,1,5,37
+Pankaj Singh,India,75,36,0,0,1,0,0,0,8,40
+VRV Singh,India,78,37,0,0,0,0,0,0,5,44
+KH Pandya,India,413,30,0,0,1,1,0,0,7,84
+Z Khan,India,15,43,0,0,0,1,0,1,12,94
+RP Singh,India,61,36,0,0,0,0,0,1,12,3
+SJ Srivastava,India,234,40,0,0,0,0,0,0,2,91
+YA Abdulla,India,215,38,1,0,0,0,0,0,5,71
+M Kartik,India,83,45,0,0,1,0,1,1,11,86
+J Suchith,India,398,27,0,0,0,0,0,1,2,14
+A Uniyal,India,213,40,0,0,1,0,1,1,1,25
+AR Patel,India,374,27,0,0,1,0,0,0,6,83
+BB Samantray,India,327,33,0,0,1,0,1,1,7,27
+J Syed Mohammad,India,283,38,0,0,1,0,1,1,6,100
+Bipul Sharma,India,228,38,0,0,0,0,0,0,4,92
+AG Murtaza,India,286,31,0,0,0,0,0,0,11,92
+S Nadeem,India,293,32,0,1,1,1,1,1,7,90
+AA Chavan,India,297,36,0,0,1,0,0,0,8,27
+ND Doshi,India,298,43,0,0,1,0,1,1,13,36
+RS Gavaskar,India,219,45,0,0,1,0,1,1,13,98
+BA Bhatt,India,302,31,1,0,1,0,1,1,2,86
+P Prasanth,India,447,36,0,0,0,0,0,1,1,76
+Ankit Sharma,India,314,30,0,0,1,0,0,0,3,31
+S Vidyut,India,108,40,0,0,1,0,0,0,12,46
+P Negi,India,322,28,0,1,0,0,0,1,10,20
+SB Jakati,India,186,41,0,0,0,0,0,1,6,46
+KP Appanna,India,181,33,1,0,0,1,0,0,2,12
+V Pratap Singh,India,326,29,0,0,1,0,0,0,10,26
+NV Ojha,India,183,38,0,0,1,1,0,0,2,51
+SB Joshi,India,16,51,0,0,0,0,0,0,1,52
+Yuvraj Singh,India,27,40,0,0,1,0,0,0,4,78
+Iqbal Abdulla,India,140,32,1,0,1,0,0,0,13,19
+PP Ojha,India,131,35,0,0,0,0,0,0,12,90
+MS Dhoni,India,20,40,0,0,1,0,0,0,12,95
+A Ashish Reddy,India,325,30,0,0,0,0,0,1,9,30
+N Saini,India,319,33,0,0,0,0,0,0,8,58
+RR Bhatkal,India,317,36,1,0,1,0,1,1,1,81
+UA Birla,India,365,32,0,0,0,0,0,1,8,77
+HV Patel,India,311,31,0,0,1,0,0,0,1,28
+MM Sharma,India,364,33,0,0,0,0,0,1,2,74
+SS Shaikh,India,200,34,0,0,0,0,0,0,11,12
+Anirudh Singh,India,205,41,0,0,1,0,1,1,6,94
+Jaskaran Singh,India,206,32,0,0,0,0,0,0,13,14
+AP Tare,India,207,34,0,0,0,0,0,1,12,69
+R Sathish,India,209,40,1,0,0,0,0,0,11,3
+MS Bisla,India,214,37,0,0,1,1,0,0,12,76
+YV Takawale,India,114,37,0,0,0,0,0,0,7,98
+S Tyagi,India,218,34,0,0,1,0,1,1,6,48
+Y Gnaneswara Rao,India,300,37,0,0,1,0,1,1,7,81
+B Kumar,India,299,31,0,0,1,0,0,0,7,86
+SC Ganguly,India,1,49,0,1,1,0,1,1,6,56
+Harpreet Singh,India,287,30,0,1,0,0,0,1,6,26
+P Dharmani,India,466,47,0,0,0,0,0,1,5,68
+S Narwal,India,226,39,0,0,0,0,0,0,8,96
+FY Fazal,India,229,36,0,0,0,0,0,1,10,56
+KH Devdhar,India,468,32,0,0,1,0,1,1,5,26
+Mandeep Singh,India,236,30,0,0,0,0,0,0,5,80
+DH Yagnik,India,277,38,0,0,1,0,1,1,13,88
+MS Gony,India,120,37,0,0,0,0,0,1,6,84
+CM Gautam,India,360,35,0,0,0,0,0,0,4,14
+DT Patil,India,123,37,0,0,1,0,0,0,2,73
+VS Malik,India,243,38,0,0,0,0,0,0,5,3
+A Mithun,India,244,32,0,0,0,0,0,1,10,66
+RS Sodhi,India,247,41,0,0,0,0,0,1,3,61
+AUK Pathan,India,261,37,0,0,0,0,0,0,6,84
+MA Agarwal,India,260,30,0,0,1,1,1,1,6,26
+C Madan,India,251,39,0,0,0,0,0,0,3,80
+AG Paunikar,India,252,33,0,1,0,0,0,0,8,88
+IC Pandey,India,359,32,0,0,0,0,0,0,9,69
+RV Gomez,India,259,36,0,1,1,0,1,1,10,12
+STR Binny,India,255,37,0,0,1,0,0,0,3,67
+SS Mundhe,India,448,33,0,0,1,1,1,1,4,80
+Anand Rajan,India,446,34,0,1,1,0,1,1,10,57
+T Kohli,India,30,33,0,0,0,0,0,0,4,57
+C Ganapathy,India,443,40,0,1,1,0,0,0,7,33
+M Rawat,India,36,36,0,0,0,0,0,0,5,36
+SS Sarkar,India,441,37,0,0,1,0,1,1,12,82
+AM Salvi,India,439,40,0,0,0,0,0,1,4,16
+SK Trivedi,India,39,39,0,0,0,0,0,1,11,84
+P Amarnath,India,435,39,0,0,1,0,0,0,10,65
+S Anirudha,India,125,34,0,0,1,0,1,1,9,52
+ER Dwivedi,India,433,33,0,0,0,0,0,0,3,24
+RV Uthappa,India,46,36,0,0,0,0,0,0,13,94
+PR Shah,India,47,34,0,0,1,0,1,1,13,18
+AM Nayar,India,48,38,0,0,0,0,0,0,3,95
+P Suyal,India,453,32,0,0,1,1,0,0,6,67
+WP Saha,India,62,37,0,0,0,0,0,0,2,10
+LR Shukla,India,63,40,0,0,1,0,1,1,10,48
+JD Unadkat,India,346,30,0,0,0,1,0,0,4,13
+RR Pant,India,420,24,0,0,1,0,0,0,2,18
+WA Mota,India,68,40,0,1,1,0,1,1,13,24
+VR Aaron,India,296,32,0,0,1,0,0,0,4,96
+NS Naik,India,419,27,0,0,0,0,0,0,4,55
+MA Khote,India,72,41,0,0,1,0,0,0,2,37
+Ishan Kishan,India,410,23,0,0,0,0,0,0,11,9
+KL Rahul,India,354,29,0,0,0,0,0,1,10,99
+SS Tiwary,India,79,32,0,0,0,0,0,1,2,3
+DS Kulkarni,India,80,33,0,1,1,0,0,0,1,22
+R Vinay Kumar,India,81,37,0,0,1,0,0,0,9,8
+SN Thakur,India,406,30,0,0,0,0,0,0,1,85
+DJ Muthuswami,India,404,40,0,1,1,1,0,0,7,61
+V Kohli,India,8,33,0,0,1,1,0,0,1,94
+AM Rahane,India,85,33,0,0,1,0,0,0,7,11
+RG More,India,399,29,0,0,0,0,0,0,12,95
+KD Karthik,India,88,36,1,0,0,0,0,0,13,58
+Anureet Singh,India,395,33,0,0,1,0,0,0,10,97
+TM Srivastava,India,92,32,0,0,0,0,0,1,8,90
+B Chipli,India,93,38,0,0,0,0,0,0,6,10
+MK Pandey,India,96,32,0,0,0,0,0,0,8,63
+SP Goswami,India,132,32,0,0,0,0,0,1,3,86
+JJ Bumrah,India,375,28,0,0,1,0,1,1,6,65
+MD Mishra,India,231,37,0,0,1,0,0,0,8,35
+TP Sudhindra,India,450,37,1,0,1,0,1,1,1,60
+AB Agarkar,India,82,44,0,1,0,0,0,0,6,100
+R Sharma,India,235,34,0,0,0,0,0,0,3,33
+M Manhas,India,171,42,0,0,0,0,0,0,13,45
+KM Jadhav,India,237,36,0,0,0,1,0,1,9,86
+PP Chawla,India,67,33,0,0,1,0,1,1,9,22
+R Tewatia,India,390,28,0,0,0,0,0,0,6,75
+U Kaul,India,134,34,0,0,1,1,0,0,13,6
+PA Reddy,India,331,30,0,0,0,0,0,1,4,51
+A Mishra,India,136,39,0,0,0,0,0,0,6,7
+R Ninan,India,269,36,0,0,1,0,0,0,6,87
+S Badrinath,India,23,41,0,0,1,0,1,1,5,19
+UBT Chand,India,262,28,0,0,1,0,1,1,11,39
+DJ Hooda,India,394,26,0,0,1,0,1,1,4,20
+VH Zol,India,384,27,0,0,0,0,0,1,10,53
+Gurkeerat Singh,India,329,31,0,0,1,0,0,0,11,82
+Shivam Sharma,India,381,28,0,0,1,0,0,0,8,2
+TL Suman,India,178,38,0,0,0,0,0,0,3,61
+AT Rayudu,India,208,36,1,0,1,0,1,1,4,55
+SA Asnodkar,India,101,37,0,0,1,0,1,1,1,16
+K Goel,India,24,35,0,0,1,0,0,0,2,97
+YK Pathan,India,31,39,0,0,0,0,0,0,3,70
+S Ladda,India,222,35,0,0,0,0,0,0,8,27
+M Kaif,India,33,41,0,0,0,0,0,0,7,93
+MB Parmar,India,444,33,0,0,0,1,0,1,9,17
+P Kumar,India,14,35,0,0,0,0,0,0,3,99
+SD Chitnis,India,148,34,0,0,0,0,0,1,3,41
+Sachin Baby,India,369,33,0,0,1,0,0,0,3,76
+Y Nagar,India,199,31,0,0,0,0,0,1,3,24
+VS Yeligati,India,150,36,0,0,0,0,0,0,12,94
+AB Barath,India,227,31,0,0,1,0,1,1,13,87
+V Sehwag,India,41,43,0,0,0,0,0,1,4,28
+S Dhawan,India,42,36,0,0,0,0,0,1,8,82
+R Ashwin,India,201,35,0,0,1,0,1,1,12,27
+Parvez Rasool,India,366,32,0,0,1,0,0,0,7,67
+RR Powar,India,153,43,0,0,1,0,1,1,9,73
+P Dogra,India,212,37,0,0,0,1,0,1,10,12
+M Vijay,India,185,37,0,0,1,0,0,0,13,47
+R Dravid,India,6,48,0,0,1,0,1,1,8,53
+Harbhajan Singh,India,50,41,0,0,1,0,0,0,9,76
+N Rana,India,431,28,0,0,1,0,0,0,8,22
+NK Patel,India,138,40,0,0,1,0,1,1,11,80
+Y Venugopal Rao,India,54,39,0,0,0,0,0,0,4,64
+VVS Laxman,India,55,47,0,0,1,0,1,1,10,40
+P Parameswaran,India,294,36,0,0,0,0,0,0,2,88
+RG Sharma,India,57,34,0,0,1,0,0,0,7,68
+X Thalaivan Sargunam,India,361,36,0,0,0,0,0,1,3,4
+SA Yadav,India,308,31,0,0,1,0,1,1,8,14
+J Yadav,India,425,31,0,0,1,0,1,1,7,6
+GH Vihari,India,340,28,0,0,0,0,0,0,2,62
+CA Pujara,India,203,33,0,0,1,0,0,0,13,21
+D Salunkhe,India,37,39,0,0,0,0,0,0,5,14
+C Nanda,India,193,42,0,0,0,0,0,0,10,64
+SK Raina,India,21,35,0,0,1,0,1,1,8,92
+KK Nair,India,339,30,0,1,1,0,0,0,5,36
+MC Juneja,India,338,31,0,0,1,0,1,1,4,11
+PM Sarvesh Kumar,India,142,32,0,0,0,0,0,0,8,46
+Sunny Gupta,India,337,33,0,0,1,0,0,0,4,87
+A Chopra,India,128,44,0,0,1,0,0,0,12,97
+AA Jhunjhunwala,India,211,39,0,0,1,0,0,0,9,44
+W Jaffer,India,7,43,0,0,1,0,0,0,12,97
+J Arunkumar,India,130,46,0,0,1,0,1,1,2,22
+DP Vijaykumar,India,143,35,0,0,0,0,0,0,1,23
+A Chandila,India,335,38,0,0,0,0,0,1,11,10
+SR Tendulkar,India,133,48,0,0,0,0,0,1,1,85
+G Gambhir,India,40,40,0,0,0,1,0,0,6,93
+SV Samson,India,351,27,0,0,1,0,0,0,1,33
+M Vohra,India,345,28,0,1,1,1,0,0,13,76
+S Sreesanth,India,77,38,0,0,0,1,0,1,5,26
+I Sharma,India,84,33,0,0,0,0,0,1,11,39
+MF Maharoof,India,90,37,0,0,1,0,1,1,13,88
+S Gopal,India,388,28,0,0,0,0,0,0,12,91
+RR Raje,India,115,35,0,0,0,0,0,0,3,87
+H Das,India,146,35,0,1,1,0,1,1,1,48
+Joginder Sharma,India,119,38,0,0,1,0,1,1,12,60
+PV Tambe,India,370,50,0,0,1,1,1,1,8,39
+S Sohal,India,65,34,0,0,1,1,1,1,1,79
+RE van der Merwe,South Africa,177,37,0,0,1,1,1,1,11,11
+D Wiese,South Africa,401,36,0,0,1,0,1,1,6,54
+RR Rossouw,South Africa,380,32,0,0,1,0,1,1,4,29
+J Theron,South Africa,233,36,0,0,1,1,1,1,1,18
+M de Lange,South Africa,389,31,0,0,0,0,0,0,1,36
+HM Amla,South Africa,427,38,1,0,0,1,0,1,1,14
+JM Kemp,South Africa,217,44,0,0,0,0,0,0,12,51
+DJ Jacobs,South Africa,263,39,0,0,1,0,1,1,2,100
+F du Plessis,South Africa,303,37,0,1,0,0,0,1,2,17
+SM Pollock,South Africa,49,48,0,0,0,0,0,0,10,16
+KP Pietersen,South Africa,158,41,0,0,0,0,0,0,3,9
+DA Miller,South Africa,320,32,1,0,1,0,1,1,3,83
+RJ Peterson,South Africa,323,42,0,0,1,0,1,1,7,34
+WD Parnell,South Africa,267,32,0,0,0,0,0,0,1,37
+KJ Abbott,South Africa,416,34,0,1,0,0,0,1,1,86
+F Behardien,South Africa,428,38,0,0,1,0,0,0,9,28
+MN van Wyk,South Africa,176,42,0,0,1,0,1,1,2,25
+T Shamsi,South Africa,463,31,0,0,0,0,0,1,10,72
+JA Morkel,South Africa,109,40,0,0,1,0,0,0,2,9
+A Nel,South Africa,438,44,0,0,0,0,0,0,6,71
+M Ntini,South Africa,122,44,0,0,1,0,1,1,7,72
+CA Ingram,South Africa,292,36,1,0,0,0,0,0,10,70
+GC Smith,South Africa,74,40,0,0,0,0,0,1,6,14
+Q de Kock,South Africa,355,29,0,0,0,0,0,0,12,42
+JP Duminy,South Africa,154,37,0,0,0,0,0,1,13,65
+T Henderson,South Africa,159,47,0,0,0,0,0,0,9,79
+RE Levi,South Africa,304,33,0,0,0,0,0,0,13,82
+HH Gibbs,South Africa,97,47,1,0,1,0,0,0,13,80
+JJ van der Wath,South Africa,268,43,1,0,1,0,0,0,6,56
+MV Boucher,South Africa,11,45,0,0,0,1,0,1,6,64
+D du Preez,South Africa,189,40,0,1,1,0,1,1,7,82
+BE Hendricks,South Africa,387,31,0,0,1,0,0,0,11,18
+DW Steyn,South Africa,94,38,0,0,0,0,0,1,2,22
+AB de Villiers,South Africa,110,37,0,0,0,0,0,0,8,29
+CH Morris,South Africa,350,34,0,0,1,1,1,1,11,65
+J Botha,South Africa,192,39,0,0,1,0,1,1,2,23
+R McLaren,South Africa,210,38,0,0,1,0,0,0,5,70
+M Morkel,South Africa,190,37,1,0,1,0,1,1,12,91
+JH Kallis,South Africa,9,46,0,0,0,0,0,0,11,11
+JEC Franklin,New Zealand,275,41,0,0,0,0,0,1,4,64
+MJ McClenaghan,New Zealand,403,35,0,0,1,0,1,1,11,41
+SB Styris,New Zealand,58,46,0,0,0,1,0,0,3,5
+DAJ Bracewell,New Zealand,312,31,0,0,1,0,0,0,2,78
+KS Williamson,New Zealand,396,31,0,0,1,0,0,0,8,12
+JD Ryder,New Zealand,157,37,0,0,1,0,0,0,9,48
+TG Southee,New Zealand,377,33,0,0,0,0,0,1,13,48
+TA Boult,New Zealand,458,32,0,0,1,0,1,1,2,100
+SE Bond,New Zealand,220,46,0,0,0,0,0,0,1,64
+MJ Guptill,New Zealand,415,35,0,1,0,0,0,0,8,84
+JE Taylor,New Zealand,282,37,0,0,0,1,0,1,3,96
+C Munro,New Zealand,411,34,0,0,1,0,0,0,4,14
+CJ Anderson,New Zealand,372,31,0,0,1,0,1,1,13,47
+BB McCullum,New Zealand,2,40,0,0,0,0,0,0,2,92
+DL Vettori,New Zealand,175,42,0,0,1,0,0,0,3,3
+SA Abbott,New Zealand,397,29,0,0,1,0,1,1,6,8
+SP Fleming,New Zealand,107,48,1,0,0,0,0,1,6,54
+JDP Oram,New Zealand,22,43,0,0,0,0,0,0,3,6
+LRPL Taylor,New Zealand,52,37,0,0,1,0,1,1,2,45
+JDS Neesham,New Zealand,376,31,0,0,1,0,0,0,7,6
+AF Milne,New Zealand,461,29,0,0,0,0,0,1,13,20
+NL McCullum,New Zealand,281,41,0,0,0,0,0,1,8,21
+MG Johnson,Australia,357,40,0,1,0,0,0,0,4,64
+RT Ponting,Australia,3,47,0,0,1,0,1,1,12,69
+BJ Rohrer,Australia,353,40,0,1,0,0,0,1,4,62
+ML Hayden,Australia,18,50,0,0,0,0,0,1,3,77
+RJ Quiney,Australia,168,39,0,0,0,0,0,1,12,23
+MEK Hussey,Australia,19,46,0,0,1,1,0,0,13,92
+DJ Harris,Australia,313,42,0,0,0,0,0,1,7,55
+GJ Bailey,Australia,197,39,0,0,1,0,1,1,2,4
+JR Hopes,Australia,25,43,0,0,1,0,1,1,1,33
+CJ Ferguson,Australia,295,37,0,0,0,0,0,1,13,71
+M Klinger,Australia,288,41,0,0,0,0,0,1,2,32
+DR Martyn,Australia,225,50,0,0,0,0,0,0,4,83
+BJ Haddin,Australia,279,44,0,0,1,0,1,1,13,38
+TD Paine,Australia,272,37,0,0,0,0,0,0,11,24
+MS Wade,Australia,271,34,0,0,0,0,0,1,9,100
+MG Neser,Australia,454,31,0,1,1,0,1,1,9,91
+MR Marsh,Australia,253,30,0,0,0,1,0,0,11,44
+L Ronchi,Australia,43,40,0,1,1,0,0,0,4,21
+DJ Thornely,Australia,45,43,0,0,0,0,0,0,7,55
+UT Khawaja,Australia,426,35,0,0,0,0,0,0,5,97
+PSP Handscomb,Australia,423,30,0,0,1,0,1,1,5,34
+MP Stoinis,Australia,409,32,0,0,1,0,0,0,13,63
+BR Dunk,Australia,379,34,0,0,1,0,1,1,3,79
+LA Pomersbach,Australia,139,37,0,0,1,0,1,1,11,90
+GJ Maxwell,Australia,305,33,0,0,0,0,0,1,9,60
+BJ Hodge,Australia,104,47,0,0,0,0,0,1,4,38
+AC Gilchrist,Australia,53,50,0,0,0,0,0,1,6,31
+A Symonds,Australia,56,46,0,0,0,0,0,1,6,80
+TM Head,Australia,417,28,1,0,1,0,1,1,13,84
+DJ Hussey,Australia,4,44,0,0,1,0,0,0,7,94
+AA Noffke,Australia,13,44,0,1,0,0,0,1,9,100
+SR Watson,Australia,32,40,0,0,0,0,0,1,13,4
+GD McGrath,Australia,118,51,0,0,0,0,0,0,9,6
+MC Henriques,Australia,163,34,0,0,1,0,0,0,1,69
+SM Harwood,Australia,184,47,1,0,1,0,1,1,10,9
+AB McDonald,Australia,198,40,0,0,1,1,0,0,12,33
+DT Christian,Australia,258,38,0,0,1,0,1,1,10,80
+NJ Rimmington,Australia,265,39,0,0,0,0,0,0,3,44
+CJ McKay,Australia,318,38,0,0,1,1,0,0,13,20
+B Laughlin,Australia,343,39,0,0,0,0,0,0,3,78
+KW Richardson,Australia,363,30,0,0,0,0,0,0,4,96
+BCJ Cutting,Australia,385,34,0,1,0,1,0,1,9,66
+B Geeves,Australia,436,39,0,0,0,0,0,0,11,54
+BW Hilfenhaus,Australia,451,38,0,0,0,0,0,1,6,40
+JW Hastings,Australia,457,36,0,0,0,0,0,0,5,52
+GS Sandhu,Australia,459,28,0,0,1,0,1,1,13,60
+SM Boland,Australia,464,32,0,0,0,0,0,0,5,6
+CL White,Australia,10,38,0,0,0,0,0,1,13,29
+SK Warne,Australia,38,52,0,0,1,0,1,1,7,67
+A Zampa,Australia,430,29,0,0,0,0,0,0,5,87
+JP Faulkner,Australia,310,31,0,0,1,0,0,0,2,28
+DE Bollinger,Australia,248,40,0,0,0,0,0,0,6,9
+AC Voges,Australia,230,42,0,0,0,1,0,1,11,62
+MJ Clarke,Australia,328,40,0,0,1,0,0,0,9,33
+CA Lynn,Australia,336,31,0,0,0,0,0,0,3,67
+NJ Maddinson,Australia,373,30,0,1,0,0,0,0,9,58
+SE Marsh,Australia,100,38,1,0,1,0,1,1,4,94
+DS Lehmann,Australia,34,51,0,0,1,0,0,0,12,25
+AJ Finch,Australia,254,35,0,1,0,0,0,1,10,71
+GB Hogg,Australia,316,50,0,0,1,0,0,0,7,8
+SM Katich,Australia,28,46,0,0,0,0,0,0,5,47
+DA Warner,Australia,187,35,0,0,0,0,0,0,4,95
+PJ Cummins,Australia,405,28,0,0,1,1,1,1,2,47
+B Lee,Australia,66,45,0,0,0,0,0,1,12,86
+RJ Harris,Australia,188,42,1,0,0,0,0,0,7,15
+SW Tait,Australia,238,38,0,0,0,1,0,1,3,87
+NM Coulter-Nile,Australia,371,34,0,1,0,0,0,1,5,93
+AC Blizzard,Australia,289,37,0,1,1,0,0,0,3,54
+LA Carseldine,Australia,182,46,0,0,1,1,1,1,2,88
+MA Starc,Australia,378,31,0,0,1,0,1,1,5,31
+DP Nannes,Australia,223,45,0,0,0,0,0,1,12,25
+TR Birt,Australia,285,40,0,0,0,0,0,1,8,9
+Umar Gul,Pakistan,105,37,0,0,1,0,0,0,13,56
+Shoaib Ahmed,Pakistan,179,31,0,0,1,0,1,1,2,41
+Kamran Akmal,Pakistan,69,39,0,0,1,0,1,1,1,83
+Shoaib Akhtar,Pakistan,144,46,0,0,1,0,0,0,5,1
+Shoaib Malik,Pakistan,86,39,0,0,1,0,1,1,6,56
+Shahid Afridi,Pakistan,70,41,0,0,1,0,0,0,8,16
+Misbah-ul-Haq,Pakistan,113,47,0,0,1,0,1,1,9,92
+Salman Butt,Pakistan,103,37,0,0,0,0,0,1,3,56
+Mohammad Hafeez,Pakistan,5,41,1,0,1,0,0,0,9,12
+Younis Khan,Pakistan,141,44,0,0,1,0,1,1,8,45
+Azhar Mahmood,Pakistan,321,46,0,0,0,0,0,1,9,79
+Mohammad Asif,Pakistan,117,39,0,0,0,0,0,0,10,33
+Sohail Tanvir,Pakistan,102,37,0,0,1,1,1,1,1,94
+CRD Fernando,Sri Lanka,149,42,0,0,1,1,0,0,6,85
+KMDN Kulasekara,Sri Lanka,324,39,0,0,0,0,0,1,2,91
+AD Mathews,Sri Lanka,191,34,1,0,0,0,0,0,11,48
+BMAJ Mendis,Sri Lanka,348,38,0,0,1,0,1,1,3,95
+M Muralitharan,Sri Lanka,121,49,0,0,1,0,0,0,11,15
+LPC Silva,Sri Lanka,111,42,0,0,1,0,1,1,9,83
+BAW Mendis,Sri Lanka,174,36,0,0,0,0,0,1,13,8
+SMSM Senanayake,Sri Lanka,352,36,0,0,0,0,0,0,7,95
+S Randiv,Sri Lanka,278,36,0,0,1,0,0,0,12,56
+TM Dilshan,Sri Lanka,135,45,0,0,0,0,0,1,5,23
+MDKJ Perera,Sri Lanka,341,31,0,0,0,0,0,1,12,36
+KC Sangakkara,Sri Lanka,26,44,0,0,1,0,1,1,4,92
+SL Malinga,Sri Lanka,194,38,0,0,1,0,0,0,2,91
+DPMD Jayawardene,Sri Lanka,64,44,1,0,0,1,0,0,13,89
+CK Kapugedera,Sri Lanka,127,34,0,0,1,0,1,1,9,56
+DNT Zoysa,Sri Lanka,98,43,0,0,1,0,1,1,11,5
+WPUJC Vaas,Sri Lanka,60,47,0,0,0,0,0,0,6,80
+T Thushara,Sri Lanka,156,40,0,0,1,0,1,1,12,99
+ST Jayasuriya,Sri Lanka,44,52,0,0,1,0,1,1,7,61
+NLTC Perera,Sri Lanka,280,32,0,1,0,0,0,1,7,4
+DJG Sammy,West Indies,362,38,0,0,1,0,0,0,4,33
+SP Narine,West Indies,315,33,0,0,1,0,0,0,8,68
+CR Brathwaite,West Indies,408,33,0,0,0,0,0,0,10,56
+CH Gayle,West Indies,162,42,1,0,1,0,0,0,13,62
+KK Cooper,West Indies,309,32,0,0,1,0,0,0,12,93
+KA Pollard,West Indies,221,34,0,0,0,0,0,1,10,32
+R Rampaul,West Indies,349,37,0,0,1,1,0,0,11,90
+LMP Simmons,West Indies,383,36,0,0,0,0,0,1,11,22
+JO Holder,West Indies,391,30,0,0,1,0,0,0,4,69
+S Badree,West Indies,452,40,0,0,1,0,1,1,3,98
+FH Edwards,West Indies,165,39,0,0,0,0,0,0,11,98
+RR Sarwan,West Indies,76,41,0,0,0,0,0,0,2,96
+S Chanderpaul,West Indies,51,47,0,0,1,0,0,0,12,85
+KAJ Roach,West Indies,240,33,0,0,0,0,0,0,6,84
+AD Russell,West Indies,334,33,0,0,1,0,1,1,7,60
+K Santokie,West Indies,456,37,0,0,1,0,1,1,1,47
+DJ Bravo,West Indies,71,38,0,0,0,0,0,0,3,73
+DR Smith,West Indies,147,38,0,0,1,0,1,1,4,30
+MN Samuels,West Indies,307,40,0,0,0,0,0,0,9,18
+T Taibu,Zimbabwea,129,38,0,0,0,0,0,0,10,9
+RW Price,Zimbabwea,449,45,0,0,0,0,0,0,8,2
+A Flintoff,England,155,44,0,0,1,1,1,1,12,36
+MJ Lumb,England,224,41,0,0,1,0,1,1,5,80
+GR Napier,England,180,41,0,0,1,0,1,1,4,49
+EJG Morgan,England,216,35,0,0,0,0,0,0,3,13
+JC Buttler,England,407,31,1,0,0,0,0,1,1,41
+SW Billings,England,421,30,0,0,0,0,0,0,4,3
+LJ Wright,England,358,36,0,0,0,0,0,0,10,46
+PD Collingwood,England,241,45,0,0,0,0,0,0,2,76
+CJ Jordan,England,434,33,1,0,1,0,1,1,11,1
+AD Mascarenhas,England,137,44,0,0,0,0,0,0,1,31
+RS Bopara,England,161,36,0,0,1,0,1,1,4,28
+CK Langeveldt,England,242,47,0,1,1,0,1,1,6,23
+AC Thomas,England,274,44,0,0,1,1,1,1,5,96
+OA Shah,England,204,43,0,0,0,0,0,0,13,38
+Mashrafe Mortaza,Bangladesh,195,38,0,0,0,0,0,0,1,27
+Mustafizur Rahman,Bangladesh,460,26,0,0,1,0,1,1,11,59
+Shakib Al Hasan,Bangladesh,276,34,0,0,0,0,0,1,6,70
+Mohammad Ashraful,Bangladesh,202,37,0,0,1,0,1,1,11,61
+Abdur Razzak,Bangladesh,145,39,0,0,1,0,1,1,9,88
+RN ten Doeschate,Netherlands,284,41,0,0,1,0,1,1,8,31
